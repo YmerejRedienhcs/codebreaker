@@ -1,4 +1,4 @@
 codebreaker
 ===========
 
-From tutorial from The RSpec Book by David Chelimsky
+From the tutorial from The RSpec Book by David Chelimsky
